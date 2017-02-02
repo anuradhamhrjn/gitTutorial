@@ -1,0 +1,5 @@
+git --version:to know the version
+git init-initialise git
+git status-status of git
+git add . //add all files
+git add filename //add indivisual file
